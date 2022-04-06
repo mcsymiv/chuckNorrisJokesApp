@@ -1,6 +1,6 @@
 Spring Guru Framework Chuck Norris Joke App
 ## Generates random Chuck Norris Joke
-###### from [Chuck Norris For Actuator] (https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator/2.4.0) maven repo
+###### from [Chuck Norris For Actuator](https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator/2.4.0) maven repo
 
 Generate app.jar file:
 ```
